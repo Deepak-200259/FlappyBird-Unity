@@ -1,0 +1,10 @@
+// This .gitignore file should be placed at the root directory of your unity Project.
+
+.vs/
+/[Tt]emp/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Uu]ser[Ss]ettings/
