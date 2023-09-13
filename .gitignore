@@ -1,5 +1,6 @@
 // This .gitignore file should be placed at the root directory of your unity Project.
 
+.git/
 .vs/
 /[Tt]emp/
 /[Bb]uild/
